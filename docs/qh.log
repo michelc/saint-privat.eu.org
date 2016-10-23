@@ -1,0 +1,41 @@
+QuickHtml ..
+---
+date: 23/10/2016 11:01:43
+src: C:\MVC\saint-privat.eu.org\src
+docs: C:\MVC\saint-privat.eu.org\docs
+---
+rmdir: /*.*
+mkdir: /
+WRITE: /colonie.md
+WRITE: /eglise.md
+WRITE: /index.md
+touch: /qh.log
+WRITE: /moulinages.md
+ copy: /robots.txt
+ copy: /_headers
+mkdir: /css
+ copy: /css/normalize.css
+ copy: /css/style.css
+mkdir: /images
+ copy: /images/colonie-480.jpg
+   no: /images/colonie-480.png
+ copy: /images/colonie.jpg
+   no: /images/colonie.png
+ copy: /images/eglise-480.jpg
+   no: /images/eglise-480.png
+ copy: /images/eglise.jpg
+   no: /images/eglise.png
+ copy: /images/moulinages-480.jpg
+   no: /images/moulinages-480.png
+ copy: /images/moulinages.jpg
+   no: /images/moulinages.png
+ copy: /images/saint-privat-480.jpg
+   no: /images/saint-privat-480.png
+ copy: /images/saint-privat.jpg
+   no: /images/saint-privat.png
+mkdir: /images/eglise
+ copy: /images/eglise/base-clocher.jpg
+ copy: /images/eglise/cadastre-1834.jpg
+ copy: /images/eglise/cadastre-1940.jpg
+ copy: /images/eglise/croix-couverture.jpg
+WRITE: /sitemap.md
