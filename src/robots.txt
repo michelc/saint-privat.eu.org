@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://saint-privat.eu.org/sitemap.xml

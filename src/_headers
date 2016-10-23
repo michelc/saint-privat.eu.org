@@ -1,0 +1,14 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+
+/css/*
+  Cache-Control: max-age: 3000
+
+/js/*
+  Cache-Control: max-age: 3000
+
+/images/*
+  Cache-Control: max-age: 3000
+  Expires: 3000

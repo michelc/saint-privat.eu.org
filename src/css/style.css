@@ -1,0 +1,124 @@
+/*
+ * saint-privat
+ */
+
+
+/* Layout
+   (http://www.adamkaplan.me/grid/)
+   ========================================================================== */
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font: 14px/1.4 "Century Gothic", sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: #fff;
+  color: #444;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 48rem;
+  padding: 20px;
+}
+
+
+/* Images
+   ========================================================================== */
+
+picture img {
+  border: solid 1px #444;
+  width: 100%;
+}
+img {
+  max-width: 100%;
+}
+div.img p {
+  text-align: center;
+}
+
+
+/* Links
+   ========================================================================== */
+
+a,
+a:visited {
+  color: blue;
+  text-decoration: underline;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+
+/* Titles
+   ========================================================================== */
+
+h2 {
+  color: #39b449;
+}
+
+h3 {
+  color: #777;
+}
+
+
+/* Lists
+   ========================================================================== */
+
+ol, ul {
+  margin: 0 0 0 1.3rem;
+  padding: 0;
+}
+
+
+/* Texts
+   ========================================================================== */
+
+.source {
+  color: #aaa;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+
+/* Footer
+   ========================================================================== */
+
+footer {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+
+/* Smartphone (landscape)
+   ========================================================================== */
+
+@media (min-width: 28rem) {
+  html {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+}
+
+
+/* Tablet & desktop
+   ========================================================================== */
+
+@media (min-width: 48rem) {
+  html {
+    font-size: 20px;
+    line-height: 1.7;
+  }
+}
