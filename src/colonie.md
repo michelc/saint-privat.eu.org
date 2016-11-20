@@ -1,7 +1,7 @@
 ﻿---
-title: Colonie des Cigales
-id: colonie
-description: Située dans un ancien moulinage de la soie, la colonie des Cigales a été la première colonie de vacances de la SNCF en France, accueillant près de 600 enfants chaque été
+title: "Colonie des Cigales"
+id: "colonie"
+description: "Située dans un ancien moulinage de la soie, la colonie des Cigales a été la première colonie de vacances de la SNCF en France, accueillant près de 600 enfants chaque été"
 ---
 
 <p class="source">

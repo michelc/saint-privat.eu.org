@@ -1,7 +1,7 @@
 ---
-title: L'Eglise
-id: eglise
-description: A l'occasion des 100 ans de l'église de Saint-Privat, l'abbé Joseph Brun a consacré en 1962 un petit fascicule à l'histoire des trois églises de Saint-Privat
+title: "L'Eglise"
+id: "eglise"
+description: "A l'occasion des 100 ans de l'église de Saint-Privat, l'abbé Joseph Brun a consacré en 1962 un petit fascicule à l'histoire des trois églises de Saint-Privat"
 ---
 
 Les premiers fondements de l'église de Saint-Privat remontent à la fin du XI ème

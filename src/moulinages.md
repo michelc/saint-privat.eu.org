@@ -1,7 +1,7 @@
 ---
-title: Les Moulinages
-id: moulinages
-description: L'histoire de l'industrie des moulinages de la soie qui a prospéré à St-Privat des années 1820 jusqu'au milieu du 20° siècle
+title: "Les Moulinages"
+id: "moulinages"
+description: "L'histoire de l'industrie des moulinages de la soie qui a prospéré à St-Privat des années 1820 jusqu'au milieu du 20° siècle"
 ---
 
 <div class="source">

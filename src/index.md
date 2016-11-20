@@ -1,8 +1,8 @@
 ---
-title: Ardèche
-indextitle: Vue depuis Aubenas
-id: saint-privat
-description: Présentation du village de Saint-Privat, en Ardèche, à quelques kilomètres d'Aubenas et de Vals-les-Bains
+title: "Ardèche"
+alttitle: "Vue depuis Aubenas"
+id: "saint-privat"
+description: "Présentation du village de Saint-Privat, en Ardèche, à quelques kilomètres d'Aubenas et de Vals-les-Bains"
 ---
 
 Situé au coeur du Parc Naturel Régional des Monts d'Ardèche, Saint-Privat
