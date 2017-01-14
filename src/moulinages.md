@@ -1,7 +1,7 @@
 ---
 title: "Les Moulinages"
 id: "moulinages"
-description: "L'histoire de l'industrie des moulinages de la soie qui a prospéré à St-Privat des années 1820 jusqu'au milieu du 20° siècle"
+description: "L'histoire de l'industrie des moulinages de la soie qui a prospéré à St-Privat des années 1820 jusqu'au milieu du 20ème siècle"
 ---
 
 <div class="source">
@@ -9,7 +9,7 @@ description: "L'histoire de l'industrie des moulinages de la soie qui a prospér
 Les informations de cette page proviennent des trois tomes du livre "Les
 Maîtres du Fil" de Yves Morel. Edité par [Mémoire d'Ardèche et Temps
 Présent](http://www.memoire-ardeche.com), ces ouvrages retracent toutes les
-étapes de l'histoire du moulinage en Ardèche méridionale du XVII ème siècle à
+étapes de l'histoire du moulinage en Ardèche méridionale du XVII^ème^ siècle à
 nos jours.
 
 </div>
@@ -43,7 +43,7 @@ dévidait plusieurs cocons en même temps (entre 4 et 12) et en séchant le grè
 recollait les brins entre eux.
 
 Au début, la filature était réalisé par les sériciculteurs avant que des usines
-spécialisées soient construites au XIX ème siècle.
+spécialisées soient construites au XIX^ème^ siècle.
 
 ### Le Moulinage
 
@@ -61,7 +61,7 @@ En plus de permettre la teinture, le moulinage améliore la qualité du fil
 obtenu : il est plus résistant, plus régulier et cela lui donne plus de
 souplesse. C'est d'ailleurs le fait que le moulinage apporte les mêmes avantages
 avec la soie synthétique qui explique que cette activité ait pu perdurer au
-XX ème siècle.
+XX^ème^ siècle.
 
 ### Les Autres Opérations
 
@@ -113,7 +113,7 @@ totale du système hydraulique aux dépens de l'arrosage.
 * Coordonnées cadastrales B 786 bis.
 * Alimentée par le canal parce que le ruisseau du Poisson (aussi appelé le
   Jumel) était beaucoup trop intermittent pour être utilisé.
-* Rachetée par Louis Tourette le 22 avril 1930 elle est devenue le N°7
+* Rachetée par Louis Tourette le 22 avril 1930 elle est devenue le N° 7
 
 ### Fabrique du Poisson, dite "Fabrique Vieille" ou "du Mazellier"
 
@@ -216,7 +216,7 @@ quatre années.
 
 Le berceau de la famille se situe à Aubenas, où Etienne Tourette était installé
 comme propriétaire. Ses fils se lancèrent dans l'ouvraison des soies au début du
-XIX ème siècle. Etienne (né en 1796), associé à son frère Eugène, fonda la
+XIX^ème^ siècle. Etienne (né en 1796), associé à son frère Eugène, fonda la
 fabrique du Buis à Saint-Privat. Henri, né en 1809, par son mariage avec Cécile
 Bouchard, devint responsable d'une partie du patrimoine industriel construit par
 la famille Bouchard à Tartary (Pont-d'Aubenas).

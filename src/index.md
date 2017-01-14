@@ -11,15 +11,15 @@ dynamique et conserver le sens de l'accueil. Les nombreux sentiers
 ombragés invitent à la ballade ou à la randonnée et offrent de magnifiques
 paysages sur les vallées alentours. Les ruelles typiques mènent le
 visiteur à la découverte du vieux village, de ses petits hameaux de
-pierres, de l'église du XIX ème siècle, du Pont-Vieux du XVII ème siècle
+pierres, de l'église du XIX^ème^ siècle, du Pont-Vieux du XVII^ème^ siècle
 pour terminer sur les berges de l'Ardèche propices à une baignade
 rafraîchissante.
 
-Saint-Privat a toujours été un village plutôt agricole jusqu'au XIX ème
+Saint-Privat a toujours été un village plutôt agricole jusqu'au XIX^ème^
 siècle, puis dans les années 1820, il a vu petit à petit l'industrie des
-moulinages de la soie y prospérer jusqu'au milieu du XX ème siècle. Un
+moulinages de la soie y prospérer jusqu'au milieu du XX^ème^ siècle. Un
 canal "des arrosants" d'une longueur de 2,7 kilomètres et qui
-fut creusé au début du XVII ème siècle témoigne encore aujourd'hui de ce
+fut creusé au début du XVII^ème^ siècle témoigne encore aujourd'hui de ce
 double passé.
 
 ### Contenu du site

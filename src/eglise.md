@@ -4,12 +4,12 @@ id: "eglise"
 description: "A l'occasion des 100 ans de l'église de Saint-Privat, l'abbé Joseph Brun a consacré en 1962 un petit fascicule à l'histoire des trois églises de Saint-Privat"
 ---
 
-Les premiers fondements de l'église de Saint-Privat remontent à la fin du XI ème
-siècle. Il s'agissait alors d'une dépendance du prieuré d'Ucel, qui était
+Les premiers fondements de l'église de Saint-Privat remontent à la fin du
+XI^ème^ siècle. Il s'agissait alors d'une dépendance du prieuré d'Ucel, qui était
 rattaché à l'abbaye bénédictine de Saint-Chaffre du Monastier (Haute-Loire).
 
-Des chapelles y seront rapportées au XV ème et au XVI ème siècle. Au début du
-XVIII ème siècle elle disposait de 4 chapelles.
+Des chapelles y seront rapportées au XV^ème^ et au XVI^ème^ siècle. Au début du
+XVIII^ème^ siècle elle disposait de 4 chapelles.
 
 En 1962, à l'occasion des 100 ans de l'église de Saint-Privat, l'abbé Joseph
 Brun -- alors curé de Saint-Privat depuis novembre 1957 -- a consacré un petit
@@ -88,7 +88,7 @@ de l'église actuelle.
 De quand datait-elle ? Nul ne le sait. Ce qui est certain, c'est qu'elle fut
 plusieurs fois remaniée au cours des siècles. Remarquons cependant que la base
 du clocher (1), existant encore près de la cure et qui a été restaurée en
-1959, possède une belle ogive du XV° siècle. Cette base du clocher a ceci de
+1959, possède une belle ogive du XV^ème^ siècle. Cette base du clocher a ceci de
 particulier qu'elle comprenait deux escaliers partant de deux faces opposées,
 mais se rejoignant au sommet et desservant la même entrée ; l'un de ces
 escaliers, pris dans l'intérieur du mur (2), débouchait à l'intérieur de
@@ -287,9 +287,9 @@ par contre prévu de tribune ; ce qui faisait perdre 51m² de surface, bien
 nécessaires pour contenir tous les paroissiens qui débordaient jusque sur la
 place aux principales fêtes. Cette population était d'après un recensement de
 cette époque de 1.015 habitants, plus les ouvrières des 14 fabriques ou
-filatures, dont le chiffre était de 5 ou 600 personnes. (Le 3° dimanche du mois,
-l'ancienne église, pourtant de vastes proportions, était entièrement pleine,
-_même aux vêpres_).
+filatures, dont le chiffre était de 5 ou 600 personnes. (Le 3^ème^ dimanche du
+mois, l'ancienne église, pourtant de vastes proportions, était entièrement
+pleine, _même aux vêpres_).
 
 Le conseil de Fabrique s'opposait en outre à l'utilisation de l'ancien clocher
 (d'ailleurs inachevé), car incorporé dans la nouvelle église, il la déparerait.

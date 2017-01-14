@@ -1,8 +1,8 @@
-QuickHtml \MVC\saint-privat.eu.org
+QuickHtml ..
 ---
-date: 20/11/2016 10:23:48
-src: c:\MVC\saint-privat.eu.org\src
-docs: c:\MVC\saint-privat.eu.org\docs
+date: 14/01/2017 13:20:47
+src: C:\MVC\saint-privat.eu.org\src
+docs: C:\MVC\saint-privat.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
@@ -41,4 +41,4 @@ mkdir: /images/eglise
  copy: /images/eglise/croix-couverture.jpg
 write: /sitemap.md
 ---
-Site built in 1,97 seconds 
+Site built in 0,42 seconds 
