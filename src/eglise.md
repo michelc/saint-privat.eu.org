@@ -146,7 +146,7 @@ commencé dès le 25 mars de cette année 1840. Dès la mise en adjudication,
 c'est-à-dire fin novembre, on commença les fondations.
 
 Les travaux se continuèrent au cours des années 1841 et 1842. En juin de cette
-année, le gros œuvre était terminé, si bien que le 8 décembre M. Hugon fit
+année, le gros oeuvre était terminé, si bien que le 8 décembre M. Hugon fit
 transférer dans l'enceinte de la nouvelle église les restes de M. Jaussoin, qui
 avait été curé de St Privat durant 63 ans. Mais on peut dire que l'église ne fut
 réellement finie qu'au cours du premier trimestre 1843. Elle ne possédait
