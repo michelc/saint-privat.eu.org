@@ -1,12 +1,13 @@
-QuickHtml ..
+QuickHtml 
 ---
-date: 14/01/2017 13:20:47
-src: C:\MVC\saint-privat.eu.org\src
-docs: C:\MVC\saint-privat.eu.org\docs
+date: 05/02/2019 16:54:16
+src: E:\MVC\saint-privat.eu.org\src
+docs: E:\MVC\saint-privat.eu.org\docs
 ---
 rmdir: /*.*
   dir: /*.*
 mkdir: /
+ copy: /CNAME
 write: /colonie.md
 write: /eglise.md
 write: /index.md
@@ -41,4 +42,4 @@ mkdir: /images/eglise
  copy: /images/eglise/croix-couverture.jpg
 write: /sitemap.md
 ---
-Site built in 0,42 seconds 
+Site built in 0,49 seconds 
